@@ -6,4 +6,5 @@ const pays = "maroc"
 console.log("pseudo :" + pseudo)
 console.log("niveau :" + niveau )
 console.log("age :" + age )
-console.log("pays : + pays")
+console.log("pays : + pays )
+    
